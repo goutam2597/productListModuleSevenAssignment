@@ -1,16 +1,3 @@
-# product_list_module_seven
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20230619_212609](https://github.com/goutam2597/productListModuleSevenAssignment/assets/134217195/df81c3d7-4f90-46bc-9bb1-c67741e8222a)
+![Screenshot_20230619_212640](https://github.com/goutam2597/productListModuleSevenAssignment/assets/134217195/0feac409-121b-4f73-a8fd-39119bc61ab7)
+![Screenshot_20230619_212658](https://github.com/goutam2597/productListModuleSevenAssignment/assets/134217195/f044a6bd-5a6a-4b5f-9370-048f121e6392)
